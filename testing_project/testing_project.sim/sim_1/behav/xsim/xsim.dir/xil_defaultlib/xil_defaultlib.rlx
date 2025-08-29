@@ -1,0 +1,9 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/FPGA_project/testing_project/testing_project.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/FPGA_project/testing_project/testing_project.srcs/sim_1/new/comp_1bit_tb.v,1756348289,verilog,,,,tb_comp_1bit,,,,,,,,
+D:/FPGA_project/testing_project/testing_project.srcs/sim_1/new/two_bit_compare_tb.v,1756345891,verilog,,,,tb_comp_2bit,,,,,,,,
+D:/FPGA_project/testing_project/testing_project.srcs/sources_1/new/comp_1bit.v,1756386830,verilog,,D:/FPGA_project/testing_project/testing_project.srcs/sources_1/new/two_bit_compare.v,,comp_1bit,,,,,,,,
+,,,,,,comp_2bit,,,,,,,,

@@ -1,1 +1,5 @@
-122345 12345
+module test_tb (
+    ports
+);
+    
+endmodule

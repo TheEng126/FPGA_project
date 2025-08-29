@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_project/Chapter_2/Chapter_2.srcs/sources_1/new/greater_2bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module greater_2bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/greater_2bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module greater_2bit_tb
