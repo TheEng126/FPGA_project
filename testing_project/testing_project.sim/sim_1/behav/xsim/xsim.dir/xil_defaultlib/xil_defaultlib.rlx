@@ -2,8 +2,16 @@
 2019.2
 Nov  6 2019
 21:57:16
+<<<<<<< HEAD
 D:/FPGA_project/testing_project/testing_project.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
 D:/FPGA_project/testing_project/testing_project.srcs/sim_1/new/comp_1bit_tb.v,1756348289,verilog,,,,tb_comp_1bit,,,,,,,,
 D:/FPGA_project/testing_project/testing_project.srcs/sim_1/new/two_bit_compare_tb.v,1756345891,verilog,,,,tb_comp_2bit,,,,,,,,
 D:/FPGA_project/testing_project/testing_project.srcs/sources_1/new/comp_1bit.v,1756386830,verilog,,D:/FPGA_project/testing_project/testing_project.srcs/sources_1/new/two_bit_compare.v,,comp_1bit,,,,,,,,
 ,,,,,,comp_2bit,,,,,,,,
+=======
+C:/Project/FPGA_project/testing_project/testing_project.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Project/FPGA_project/testing_project/testing_project.srcs/sim_1/new/greater_1bit_tb.v,1756429367,verilog,,C:/Project/FPGA_project/testing_project/testing_project.srcs/sim_1/new/greater_2bit_tb.v,,tb_greater_1bit,,,,,,,,
+C:/Project/FPGA_project/testing_project/testing_project.srcs/sim_1/new/greater_2bit_tb.v,1756436420,verilog,,,,greater_2bit_tb,,,,,,,,
+C:/Project/FPGA_project/testing_project/testing_project.srcs/sources_1/new/greater_1bit.v,1756429271,verilog,,C:/Project/FPGA_project/testing_project/testing_project.srcs/sim_1/new/greater_1bit_tb.v,,greater_1bit,,,,,,,,
+C:/Project/FPGA_project/testing_project/testing_project.srcs/sources_1/new/greater_2bit.v,1756436422,verilog,,C:/Project/FPGA_project/testing_project/testing_project.srcs/sources_1/new/greater_1bit.v,,greater_2bit,,,,,,,,
+>>>>>>> b3d6db3dcece7f9e6a14ad4bc4e1f516e837604d

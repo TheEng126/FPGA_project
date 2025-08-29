@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
@@ -24,3 +25,13 @@ module greater_1bit(
 
     );
 endmodule
+=======
+module greater_1bit (
+    input wire a, b,
+    output wire c
+);
+
+    assign c = (a & ~b);
+    
+endmodule
+>>>>>>> b3d6db3dcece7f9e6a14ad4bc4e1f516e837604d

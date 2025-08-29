@@ -3,10 +3,17 @@
 <!--The data in this file is primarily intended for consumption by Xilinx tools.
 The structure and the elements are likely to change over the next few releases.
 This means code written to parse this file will need to be revisited each subsequent release.-->
+<<<<<<< HEAD
 <application name="pa" timeStamp="Fri Aug 29 14:11:04 2025">
 <section name="Project Information" visible="false">
 <property name="ProjectID" value="d96ab1329745458296571660d7d46235" type="ProjectID"/>
 <property name="ProjectIteration" value="2" type="ProjectIteration"/>
+=======
+<application name="pa" timeStamp="Fri Aug 29 10:14:43 2025">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="0acd2d0149294b04be482bc7d57d8371" type="ProjectID"/>
+<property name="ProjectIteration" value="1" type="ProjectIteration"/>
+>>>>>>> b3d6db3dcece7f9e6a14ad4bc4e1f516e837604d
 </section>
 <section name="PlanAhead Usage" visible="true">
 <item name="Project Data">
@@ -17,6 +24,7 @@ This means code written to parse this file will need to be revisited each subseq
 <property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
 </item>
 <item name="Java Command Handlers">
+<<<<<<< HEAD
 <property name="AddSources" value="10" type="JavaHandler"/>
 <property name="CloseProject" value="1" type="JavaHandler"/>
 <property name="EditDelete" value="5" type="JavaHandler"/>
@@ -98,6 +106,28 @@ This means code written to parse this file will need to be revisited each subseq
 <property name="TaskBanner_CLOSE" value="3" type="GuiHandlerData"/>
 <property name="TclConsoleView_TCL_CONSOLE_CODE_EDITOR" value="1" type="GuiHandlerData"/>
 <property name="WaveformNameTree_WAVEFORM_NAME_TREE" value="21" type="GuiHandlerData"/>
+=======
+<property name="AddSources" value="1" type="JavaHandler"/>
+<property name="OpenFile" value="1" type="JavaHandler"/>
+<property name="OpenProject" value="3" type="JavaHandler"/>
+<property name="ShowView" value="1" type="JavaHandler"/>
+<property name="SimulationRun" value="2" type="JavaHandler"/>
+</item>
+<item name="Gui Handlers">
+<property name="CmdMsgDialog_MESSAGES" value="1" type="GuiHandlerData"/>
+<property name="CmdMsgDialog_OPEN_MESSAGES_VIEW" value="1" type="GuiHandlerData"/>
+<property name="FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE" value="3" type="GuiHandlerData"/>
+<property name="MainMenuMgr_CHECKPOINT" value="1" type="GuiHandlerData"/>
+<property name="MainMenuMgr_FILE" value="4" type="GuiHandlerData"/>
+<property name="MainMenuMgr_PROJECT" value="3" type="GuiHandlerData"/>
+<property name="MainToolbarMgr_OPEN" value="2" type="GuiHandlerData"/>
+<property name="MsgTreePanel_MESSAGE_SEVERITY" value="2" type="GuiHandlerData"/>
+<property name="MsgTreePanel_MESSAGE_VIEW_TREE" value="2" type="GuiHandlerData"/>
+<property name="PACommandNames_OPEN_FILE" value="1" type="GuiHandlerData"/>
+<property name="PACommandNames_OPEN_PROJECT" value="3" type="GuiHandlerData"/>
+<property name="PACommandNames_SIMULATION_RUN_BEHAVIORAL" value="2" type="GuiHandlerData"/>
+<property name="PAViews_PROJECT_SUMMARY" value="1" type="GuiHandlerData"/>
+>>>>>>> b3d6db3dcece7f9e6a14ad4bc4e1f516e837604d
 </item>
 <item name="Other">
 <property name="GuiMode" value="1" type="GuiMode"/>
