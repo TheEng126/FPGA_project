@@ -2,6 +2,10 @@
 2019.2
 Nov  6 2019
 21:57:16
-D:/FPGA_project/Chapter_2/Chapter_2.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
-D:/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/greater_2bit_tb.v,1756452593,verilog,,,,greater_2bit_tb,,,,,,,,
-D:/FPGA_project/Chapter_2/Chapter_2.srcs/sources_1/new/greater_2bit.v,1756454707,verilog,,D:/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/greater_2bit_tb.v,,greater_2bit,,,,,,,,
+C:/Project/FPGA_project/Chapter_2/Chapter_2.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/comparator_2bit_tb.v,1756514678,verilog,,C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/top_module_tb.v,,comparator_2bit_tb,,,,,,,,
+C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/greater_2bit_tb.v,1756514680,verilog,,C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/comparator_2bit_tb.v,,greater_2bit_tb,,,,,,,,
+,,,,,,top_module_tb,,,,,,,,
+C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sources_1/new/comparator_2bit.v,1756545427,verilog,,C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sources_1/new/top_module.v,,comparator_2bit,,,,,,,,
+C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sources_1/new/greater_2bit.v,1756545428,verilog,,C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sources_1/new/comparator_2bit.v,,greater_2bit,,,,,,,,
+,,,,C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/greater_2bit_tb.v,,top_module,,,,,,,,
