@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Aug 31 14:19:46 2025
+# Process ID: 9612
+# Current directory: C:/Project/FPGA_project/Chapter_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9620 C:\Project\FPGA_project\Chapter_2\Chapter_2.xpr
+# Log file: C:/Project/FPGA_project/Chapter_2/vivado.log
+# Journal file: C:/Project/FPGA_project/Chapter_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Project/FPGA_project/Chapter_2/Chapter_2.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:13 . Memory (MB): peak = 804.027 ; gain = 189.809
