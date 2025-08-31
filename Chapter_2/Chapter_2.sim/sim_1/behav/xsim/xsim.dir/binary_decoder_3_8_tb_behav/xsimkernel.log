@@ -2,3 +2,6 @@ Running: xsim.dir/binary_decoder_3_8_tb_behav/xsimk.exe -simmode gui -wdb binary
 Design successfully loaded
 Design Loading Memory Usage: 8424 KB (Peak: 8424 KB)
 Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 9128 KB (Peak: 9128 KB)
+Simulation CPU Usage: 15 ms

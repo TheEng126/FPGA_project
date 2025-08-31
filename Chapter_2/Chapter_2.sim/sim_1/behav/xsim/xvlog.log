@@ -8,6 +8,8 @@ INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Project/FPGA_project/Chapter_2/C
 INFO: [VRFC 10-311] analyzing module binary_decoder_3_8
 INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sources_1/new/binary_decoder_2_4.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module binary_decoder_2_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sources_1/new/binary_decoder_4_16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module binary_decoder_4_16
 INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/greater_2bit_tb.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module greater_2bit_tb
 INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/comparator_2bit_tb.v" into library xil_defaultlib
@@ -18,3 +20,5 @@ INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Project/FPGA_project/Chapter_2/C
 INFO: [VRFC 10-311] analyzing module binary_decoder_3_8_tb
 INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/binary_decoder_2_4_tb.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module binary_decoder_2_4_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Project/FPGA_project/Chapter_2/Chapter_2.srcs/sim_1/new/binary_decoder_4_16_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module binary_decoder_4_16_tb
