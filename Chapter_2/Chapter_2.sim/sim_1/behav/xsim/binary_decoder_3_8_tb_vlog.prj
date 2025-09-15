@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Chapter_2.srcs/sources_1/new/greater_2bit.v" \
+"../../../../Chapter_2.srcs/sources_1/new/comparator_2bit.v" \
+"../../../../Chapter_2.srcs/sources_1/new/top_module.v" \
+"../../../../Chapter_2.srcs/sources_1/new/binary_decoder_3_8.v" \
+"../../../../Chapter_2.srcs/sources_1/new/binary_decoder_2_4.v" \
+"../../../../Chapter_2.srcs/sim_1/new/greater_2bit_tb.v" \
+"../../../../Chapter_2.srcs/sim_1/new/comparator_2bit_tb.v" \
+"../../../../Chapter_2.srcs/sim_1/new/top_module_tb.v" \
+"../../../../Chapter_2.srcs/sim_1/new/binary_decoder_3_8_tb.v" \
+"../../../../Chapter_2.srcs/sim_1/new/binary_decoder_2_4_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
