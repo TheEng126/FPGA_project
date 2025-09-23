@@ -1,3 +1,7 @@
 Vivado Simulator 2019.2
 Time resolution is 1 ps
+<<<<<<< HEAD
 $stop called at time : 170 ns : File "C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sim_1/new/multifunction_barrel_shifter_tb.v" Line 38
+=======
+$stop called at time : 50 ns : File "D:/FPGA_project/Chapter_3/Chapter_3.srcs/sim_1/new/barrel_shifter_tb.v" Line 20
+>>>>>>> ec0693c425aca3de38c4f220525b428dc2e94a0b

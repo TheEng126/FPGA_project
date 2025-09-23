@@ -1,12 +1,17 @@
 Vivado Simulator 2019.2
 Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+<<<<<<< HEAD
 Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto eea59dce28e44ba6afc5a5757c532e4b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot multifunction_barrel_shifter_tb_behav xil_defaultlib.multifunction_barrel_shifter_tb xil_defaultlib.glbl -log elaborate.log 
+=======
+Running: D:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto eea59dce28e44ba6afc5a5757c532e4b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot barrel_shifter_tb_behav xil_defaultlib.barrel_shifter_tb xil_defaultlib.glbl -log elaborate.log 
+>>>>>>> ec0693c425aca3de38c4f220525b428dc2e94a0b
 Using 2 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer
 WARNING: [VRFC 10-5021] port 'en' is not connected on this instance [C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sources_1/new/multifunction_barrel_shifter.v:58]
 Completed static elaboration
 Starting simulation data flow analysis
+<<<<<<< HEAD
 WARNING: [XSIM 43-4099] "C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sources_1/new/multifunction_barrel_shifter.v" Line 50. Module multifunction_barrel_shifter doesn't have a timescale but at least one module in design has a timescale.
 WARNING: [XSIM 43-4099] "C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sources_1/new/multifunction_barrel_shifter.v" Line 20. Module reverse doesn't have a timescale but at least one module in design has a timescale.
 WARNING: [XSIM 43-4099] "C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sources_1/new/multifunction_barrel_shifter.v" Line 30. Module barrel_shift_left doesn't have a timescale but at least one module in design has a timescale.
@@ -20,3 +25,12 @@ Compiling module xil_defaultlib.multifunction_barrel_shifter
 Compiling module xil_defaultlib.multifunction_barrel_shifter_tb
 Compiling module xil_defaultlib.glbl
 Built simulation snapshot multifunction_barrel_shifter_tb_behav
+=======
+WARNING: [XSIM 43-4099] "D:/FPGA_project/Chapter_3/Chapter_3.srcs/sources_1/new/barrel_shifter.v" Line 1. Module barrel_shifter doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.barrel_shifter
+Compiling module xil_defaultlib.barrel_shifter_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot barrel_shifter_tb_behav
+>>>>>>> ec0693c425aca3de38c4f220525b428dc2e94a0b

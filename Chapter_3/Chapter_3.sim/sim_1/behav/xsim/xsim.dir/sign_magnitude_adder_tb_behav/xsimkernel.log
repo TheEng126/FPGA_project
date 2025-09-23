@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Running: xsim.dir/sign_magnitude_adder_tb_behav/xsimk.exe -simmode gui -wdb sign_magnitude_adder_tb_behav.wdb -simrunnum 0 -socket 56796
 Design successfully loaded
 Design Loading Memory Usage: 7820 KB (Peak: 7820 KB)
@@ -5,3 +6,12 @@ Design Loading CPU Usage: 15 ms
 Simulation completed
 Simulation Memory Usage: 8480 KB (Peak: 8480 KB)
 Simulation CPU Usage: 61 ms
+=======
+Running: xsim.dir/sign_magnitude_adder_tb_behav/xsimk.exe -simmode gui -wdb sign_magnitude_adder_tb_behav.wdb -simrunnum 0 -socket 60109
+Design successfully loaded
+Design Loading Memory Usage: 9008 KB (Peak: 9008 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 9704 KB (Peak: 9704 KB)
+Simulation CPU Usage: 0 ms
+>>>>>>> ec0693c425aca3de38c4f220525b428dc2e94a0b
