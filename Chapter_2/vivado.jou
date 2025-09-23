@@ -101,3 +101,5 @@ source binary_decoder_4_16_tb.tcl
 relaunch_sim
 relaunch_sim
 relaunch_sim
+relaunch_sim
+close_sim
