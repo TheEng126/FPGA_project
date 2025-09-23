@@ -3,5 +3,7 @@
 Nov  6 2019
 21:57:16
 C:/Project/FPGA_project/Chapter_3/Chapter_3.sim/sim_1/behav/xsim/glbl.v,1758012829,verilog,,,,glbl,,,,,,,,
+C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sim_1/new/multifunction_barrel_shifter_tb.v,1758600033,verilog,,,,multifunction_barrel_shifter_tb,,,,,,,,
 C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sim_1/new/sign_magnitude_adder_tb.v,1758012829,verilog,,,,sign_magnitude_adder_tb,,,,,,,,
+C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sources_1/new/multifunction_barrel_shifter.v,1758600606,verilog,,C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sim_1/new/multifunction_barrel_shifter_tb.v,,barrel_shift_left;barrel_shift_right;multifunction_barrel_shifter;reverse,,,,,,,,
 C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sources_1/new/sign_manitude_adder.v,1758012829,verilog,,C:/Project/FPGA_project/Chapter_3/Chapter_3.srcs/sim_1/new/sign_magnitude_adder_tb.v,,sign_manitude_adder,,,,,,,,
