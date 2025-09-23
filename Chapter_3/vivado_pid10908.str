@@ -101,3 +101,15 @@ Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 // [Engine Memory]: 750 MB (+634890kb) [00:00:25]
 // WARNING: HEventQueue.dispatchEvent() is taking  2875 ms.
 // Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.2/data/ip'. 
+// [Engine Memory]: 789 MB (+1824kb) [00:00:28]
+// Project name: Chapter_3; location: C:/Project/FPGA_project/Chapter_3; part: xc7vx485tffg1157-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:08 . Memory (MB): peak = 814.723 ; gain = 198.215 
+dismissDialog("Open Project"); // bB (cr)
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 114 MB (+11823kb) [00:00:45]
+// Elapsed time: 24 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources]", 4); // B (F, cr)
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1]", 5); // B (F, cr)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, hex_to_7seg_tb (hex_to_7seg_tb.v)]", 7, true); // B (F, cr) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, sign_magnitude_adder_tb (sign_magnitude_adder_tb.v)]", 6, true); // B (F, cr) - Node
+// HMemoryUtils.trashcanNow. Engine heap size: 825 MB. GUI used memory: 55 MB. Current time: 9/23/25, 8:39:18 AM ICT
